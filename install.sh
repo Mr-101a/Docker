@@ -17,4 +17,4 @@ echo "\n check for successful install -> \n "
 sudo docker --version
 echo "\n Test Docker \ it is a simple run -> \n "
 sudo docker run hello-world
-echo "\n written by Alpha Team || 101 \n"
+echo "\n written by Mr.101 \n"
