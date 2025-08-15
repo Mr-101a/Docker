@@ -1,8 +1,7 @@
 #!/bin/bash
 
 # install Docker \ linux / ubuntu 
-# Alpha Team 
-# written by 101 
+# written by Mr.101 
 
 echo "\n welcome to Alpha Installer ! \n"
 echo "\n Install Docker :: \n "
