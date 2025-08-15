@@ -1,4 +1,4 @@
-# Docker
+# Install Docker
 install Docker \ linux \ ubuntu  
 + **Installing Docker and testing it with install.sh**
 
